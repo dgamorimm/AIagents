@@ -41,6 +41,7 @@ deprecation==2.1.0
 distro==1.9.0
 docker==7.1.0
 docstring-parser==0.16
+duckduckgo-search==8.0.2
 durationpy==0.10
 embedchain==0.1.128
 et-xmlfile==2.0.0
@@ -112,6 +113,7 @@ langchain-openai==0.2.14
 langchain-text-splitters==0.3.8
 langsmith==0.3.44
 litellm==1.68.0
+lxml==5.4.0
 mako==1.3.10
 markdown==3.8
 markdown-it-py==3.0.0
@@ -164,6 +166,7 @@ pillow==11.2.1
 platformdirs==4.3.8
 portalocker==2.10.1
 posthog==3.25.0
+primp==0.15.0
 prometheus-client==0.22.1
 prompt-toolkit==3.0.51
 propcache==0.3.1
