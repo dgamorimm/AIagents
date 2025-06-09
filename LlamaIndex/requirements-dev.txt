@@ -8,3 +8,5 @@ crewai
 crewai-tools 
 ipykernel
 python-dotenv
+ipywidgets
+widgetsnbextension
