@@ -1,0 +1,6 @@
+ipykernel
+python-dotenv
+ipywidgets
+widgetsnbextension
+langchain
+langchain-openai
